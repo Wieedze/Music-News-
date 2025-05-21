@@ -52,7 +52,19 @@ const topics = {
         "Recommendation algorithms",
         "Granular synthesis",
         "MIDI controllers"
-    ]
+    ],
+    Brands : [
+        "Waves Audio",
+        "Native Instruments",
+        "FabFilter",
+        "Spectrasonics",
+        "iZotope",
+        "Plugin Alliance",
+        "U-He",
+        "Arturia",
+        "Softube",
+        "Valhalla DSP"
+    ],
 };
 
 function displayTopics() {
